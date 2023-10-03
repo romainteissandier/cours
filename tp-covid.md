@@ -72,7 +72,7 @@ df = pd.DataFrame(data)
 
 #### On vérifie que les données sont correctement structurées
 
-On utile `.info` `.head` `.describe` `.dtypes` etc.
+On utilise `.info` `.head` `.describe` `.dtypes` etc.
 
 Est-ce qu'il n'y a pas un problème de type ? Comment le régler (indice chez vous, `.to_<nouveau_type>...`)
 
